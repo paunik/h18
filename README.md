@@ -1,0 +1,1 @@
+Reproduce  H18 error when compressing response with gzip

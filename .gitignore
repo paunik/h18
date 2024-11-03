@@ -1,0 +1,17 @@
+Packages
+.build
+.idea
+xcuserdata
+*.xcodeproj
+Config/secrets/
+.DS_Store
+.swift-version
+CMakeLists.txt
+*.env
+.swiftpm
+Public/
+.env.development
+.env.staging
+.env.production
+.env.testing
+tmp/
